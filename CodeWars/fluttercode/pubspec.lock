@@ -124,10 +124,10 @@ packages:
     dependency: "direct main"
     description:
       name: geolocator
-      sha256: f4efb8d3c4cdcad2e226af9661eb1a0dd38c71a9494b22526f9da80ab79520e5
+      sha256: afebc912cbe6496e8823e064ca519afb5610072bb9c4a9feea715f6feb4f7f28
       url: "https://pub.dev"
     source: hosted
-    version: "10.1.1"
+    version: "13.0.3"
   geolocator_android:
     dependency: transitive
     description:
@@ -156,10 +156,10 @@ packages:
     dependency: transitive
     description:
       name: geolocator_web
-      sha256: "102e7da05b48ca6bf0a5bda0010f886b171d1a08059f01bfe02addd0175ebece"
+      sha256: e54434b2ce9c677759a188d7e32e950802f79a9e9f45728239404bece0f1bd8d
       url: "https://pub.dev"
     source: hosted
-    version: "2.2.1"
+    version: "4.1.2"
   geolocator_windows:
     dependency: transitive
     description:
@@ -172,10 +172,10 @@ packages:
     dependency: "direct main"
     description:
       name: google_generative_ai
-      sha256: ee33bc3e576244351d62bd5d645df544ccd118a95e43aad154450e3c7bc13a5a
+      sha256: "81dae159c89e4d9bdc46955b6f4ee5ae0a291f9e8f990d76f43944e0d6041d4f"
       url: "https://pub.dev"
     source: hosted
-    version: "0.1.0"
+    version: "0.4.6"
   http:
     dependency: "direct main"
     description:
@@ -196,10 +196,10 @@ packages:
     dependency: "direct main"
     description:
       name: intl
-      sha256: "3bc132a9dbce73a7e4a21a17d06e1878839ffbf975568bc875c60537824b0c4d"
+      sha256: "3df61194eb431efc39c4ceba583b95633a403f46c9fd341e550ce0bfa50e9aa5"
       url: "https://pub.dev"
     source: hosted
-    version: "0.18.1"
+    version: "0.20.2"
   leak_tracker:
     dependency: transitive
     description:
@@ -321,18 +321,18 @@ packages:
     dependency: "direct main"
     description:
       name: syncfusion_flutter_charts
-      sha256: "97142a0192f6fd44f299c30c0b97399ab503de17ef3860e560078bb6be3903de"
+      sha256: "06186afb2ee8348697c278336280999da8e5ec8cd13264807b720bee21e47916"
       url: "https://pub.dev"
     source: hosted
-    version: "23.2.7"
+    version: "29.1.33"
   syncfusion_flutter_core:
     dependency: transitive
     description:
       name: syncfusion_flutter_core
-      sha256: a2427697bfad5b611db78ea4c4daef82d3350b83c729a8dc37959662a31547f9
+      sha256: f56ee689d572c86a0d96cc986120a1e81a9cee9ff6d3c33acb030766a2ad1c04
       url: "https://pub.dev"
     source: hosted
-    version: "23.2.7"
+    version: "29.1.33"
   term_glyph:
     dependency: transitive
     description:
@@ -390,5 +390,5 @@ packages:
     source: hosted
     version: "1.1.1"
 sdks:
-  dart: ">=3.7.2 <4.0.0"
+  dart: ">=3.7.0 <4.0.0"
   flutter: ">=3.18.0-18.0.pre.54"
